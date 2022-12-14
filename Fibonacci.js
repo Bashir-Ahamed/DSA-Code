@@ -1,3 +1,4 @@
+// Fibonacchi
 function fibonacchi(n) {
   const fib = [0, 1];
 
@@ -10,3 +11,5 @@ function fibonacchi(n) {
 console.log(fibonacchi(3));
 console.log(fibonacchi(5));
 console.log(fibonacchi(7));
+
+//Big O = O(n)
